@@ -1,0 +1,17 @@
+{
+  "name": "when-sourcebuffer-ready",
+  "version": "1.0.0",
+  "description": "Execute a callback (e.g. `appendBuffer()`) when `sourceBuffer.updating` becomes `false`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Media Source Extensions",
+    "SourceBuffer",
+    "appendBuffer",
+    "MediaSource"
+  ],
+  "author": "WofWca <wofwca@protonmail.com>",
+  "license": "Apache-2.0"
+}
